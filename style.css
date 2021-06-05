@@ -1,0 +1,12 @@
+body {
+    font-family: Helvetica;
+}
+
+.head {
+    background-image: url('./images/pattern.jpeg');
+    color: khaki;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+
+}
